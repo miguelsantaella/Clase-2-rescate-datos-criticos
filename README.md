@@ -1,5 +1,5 @@
 # Clase-2-rescate-datos-criticos
-🧠 Reto de Algoritmos: Rescate de Datos Críticos en una Infraestructura Comprometida
+🧠 Reto de Algoritmos: Rescate de Datos Críticos en una Infraestructura Comprometida cositas en el canas
 
 
 https://github.com/miguelsantaella/Clase-2-rescate-datos-criticos.git
