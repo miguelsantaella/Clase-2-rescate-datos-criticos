@@ -1,6 +1,9 @@
 # Clase-2-rescate-datos-criticos
 🧠 Reto de Algoritmos: Rescate de Datos Críticos en una Infraestructura Comprometida
 
+
+https://github.com/miguelsantaella/Clase-2-rescate-datos-criticos.git
+
 Presentación:
 
 Bienvenidos, estimados alumnos. Este ejercicio simula una situación de emergencia tecnológica en la que deberán aplicar sus habilidades analíticas para diseñar una solución eficiente, lógica y bien comunicada.
